@@ -225,15 +225,16 @@
 @media screen and (max-width:390px)
 {
     .imagens{
-        height: 28vh;
+        height: 27vh;
+        mnargi-top:60%;
     }
     .livros-nomess{
         font-size: 0.6rem;
-        margin-left: 48%;
+        margin-left: 60%;
     }
     .livros-nomesss{
         font-size: 0.6rem;
-        margin-left: 48%;
+        margin-left: 60%;
     }
     .livros-nomes{
         margin-top: -48%;
@@ -247,6 +248,7 @@
     }
     #contato{
         margin-top: 50%;
+        height:30vh;
     }
 }
 @media screen and (max-width:330px)
@@ -272,35 +274,6 @@
         margin-top: 50%;
         height: 38vh;
     }
-}
-@media screen and (max-width:390px)
-{
-    .imagens{
-        height: 25vh;
-        margin-top: 35%;
-    }
-    .livros-nomess{
-        font-size: 0.7rem;
-        margin-left: 45%;
-    }
-    .livros-nomesss{
-        font-size: 0.6rem;
-        margin-left: 45%;
-    }
-    .livros-nomes{
-        margin-top: -48%;
-        font-size: 0.7rem;
-        margin-left: 45%;
-    }
-    #contato{
-        margin-top: 30%;
-        height: 30vh;
-    }
-    #redes{
-        height: 8vh;
-        width: 50vw;
-    }
-}
 
 @media screen and (max-width:285px)
 {
