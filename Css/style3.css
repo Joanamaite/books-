@@ -225,12 +225,12 @@
 @media screen and (max-width:390px)
 {
     .imagens{
-        height: 28vh;
-        margin-top: 30%;
+        height: 27vh;
+        margin-top: 60%;
     }
     .livros-nomess{
         font-size: 0.6rem;
-        margin-left: 48%;
+        margin-left: 60%;
     }
     .livros-nomesss{
         font-size: 0.6rem;
@@ -241,44 +241,6 @@
         font-size: 0.6rem;
         margin-left: 48%;
     }
-    .preco{
-        margin-left: 57%;
-    }
-    .botao{
-        margin-left: 55%;
-    }
-    .button{
-        width: 29vw;
-        height: 5vh;
-        font-size: 0.8rem;
-    }
-    #contato{
-        margin-top: 60%;
-    }
-}
-@media screen and (max-width:330px)
-{
-    .imagens{
-        height: 23vh;
-        margin-top: 40%;
-    }
-    .livros-nomess{
-        font-size: 0.5rem;
-        margin-left: 40%;
-    }
-    .livros-nomesss{
-        font-size: 0.5rem;
-        margin-left: 40%;
-    }
-    .livros-nomes{
-        margin-top: -40%;
-        font-size: 0.5rem;
-        margin-left: 40%;
-    }
-    .preco{
-        font-size: 1rem;
-        margin-left: 50%;
-    }
     .button{
         width: 29vw;
         height: 5vh;
@@ -286,9 +248,34 @@
     }
     #contato{
         margin-top: 50%;
+        height: 30vh;
+    }
+}
+@media screen and (max-width:330px)
+{
+    .imagens{
+        height: 25vh;
+        margin-top: 40%;
+    }
+    .livros-nomess{
+        font-size: 0.7rem;
+        margin-left: 40%;
+    }
+    .livros-nomesss{
+        font-size: 0.6rem;
+        margin-left: 40%;
+    }
+    .livros-nomes{
+        margin-top: -48%;
+        font-size: 0.7rem;
+        margin-left: 40%;
+    }
+    #contato{
+        margin-top: 50%;
         height: 38vh;
     }
 }
+
 @media screen and (max-width:285px)
 {
     .livros-nomes{
