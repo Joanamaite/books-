@@ -226,7 +226,7 @@
 {
     .imagens{
         height: 27vh;
-        margin-top: 48%;
+        margin-top: 40%;
     }
     .livros-nomess{
         font-size: 0.6rem;
@@ -247,8 +247,8 @@
         font-size: 0.8rem;
     }
     #contato{
-        margin-top: 20%;
-        height: 30vh;
+        margin-top: 40%;
+        height: 25vh;
     }
 }
 @media screen and (max-width:330px)
